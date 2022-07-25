@@ -8,5 +8,6 @@ There are two files in this repository:
 * This file shows some common visualizations of the predictor and outcome variables, including swarmplots, barplots, density plots and basic statistical test for normality/correlations.
 
 2. Model Development
-* This file explores some common machine learning methods applied to the dataset and run with nested cross-validation. 
-* Models used include logistic regression and probit regression in a nested CV approach. 
+* This file explores some common machine learning methods applied to the dataset.
+* Models used include logistic, probit, decision tree and random forest classification.
+* Model calibration is tested using reliability curves, and performance is tested using K-fold CV metrics and confusion matrices.
