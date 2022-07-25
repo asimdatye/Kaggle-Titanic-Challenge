@@ -10,4 +10,4 @@ There are two files in this repository:
 2. Model Development
 * This file explores some common machine learning methods applied to the dataset.
 * Models used include logistic, probit, decision tree and random forest classification.
-* Model calibration is tested using reliability curves, and performance is tested using K-fold CV metrics and confusion matrices.
+* Model calibration is tested using reliability curves and confusion matrices.
